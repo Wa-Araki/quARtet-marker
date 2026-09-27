@@ -1,0 +1,21 @@
+layout,swing,slip_mm,slip_deg,obj_disp_mm,t_before,t_after,file
+Single planar tag,1,1.072,0.263,572.299,6.1,8.5,Single_Take 2026-06-19 02.49.23 PM.csv
+Single planar tag,2,0.989,0.308,572.883,25.8,28.2,Single_Take 2026-06-19 02.49.23 PM.csv
+Single planar tag,3,0.999,0.317,573.993,44.0,46.3,Single_Take 2026-06-19 02.49.23 PM.csv
+Single planar tag,4,1.019,0.335,573.35,63.7,66.1,Single_Take 2026-06-19 02.49.23 PM.csv
+Single planar tag,5,1.035,0.28,574.89,88.2,90.6,Single_Take 2026-06-19 02.49.23 PM.csv
+Diagonal,1,107.833,25.883,660.481,13.3,15.7,Diagonal_Take 2026-06-19 02.40.10 PM.csv
+Diagonal,2,78.884,18.77,637.121,32.2,34.6,Diagonal_Take 2026-06-19 02.40.10 PM.csv
+Diagonal,3,115.144,27.706,671.301,55.2,57.6,Diagonal_Take 2026-06-19 02.40.10 PM.csv
+Diagonal,4,114.866,27.643,658.443,74.9,77.3,Diagonal_Take 2026-06-19 02.40.10 PM.csv
+Diagonal,5,100.9,24.263,657.743,113.1,115.5,Diagonal_Take 2026-06-19 02.40.10 PM.csv
+Pitch,1,1.885,0.322,580.322,7.7,10.0,Pitch_Take 2026-06-19 02.43.05 PM.csv
+Pitch,2,1.784,0.339,582.32,30.6,33.0,Pitch_Take 2026-06-19 02.43.05 PM.csv
+Pitch,3,1.58,0.293,580.352,49.5,51.9,Pitch_Take 2026-06-19 02.43.05 PM.csv
+Pitch,4,1.696,0.294,582.376,67.7,70.0,Pitch_Take 2026-06-19 02.43.05 PM.csv
+Pitch,5,1.628,0.318,584.555,82.6,85.0,Pitch_Take 2026-06-19 02.43.05 PM.csv
+Reversed-pitch,1,2.107,0.375,578.947,7.7,10.1,Pitch_r_Take 2026-06-19 02.45.42 PM.csv
+Reversed-pitch,2,2.09,0.262,574.168,25.8,28.1,Pitch_r_Take 2026-06-19 02.45.42 PM.csv
+Reversed-pitch,3,2.13,0.355,577.591,41.6,44.0,Pitch_r_Take 2026-06-19 02.45.42 PM.csv
+Reversed-pitch,4,1.777,0.34,575.472,60.5,62.8,Pitch_r_Take 2026-06-19 02.45.42 PM.csv
+Reversed-pitch,5,2.0,0.287,579.676,85.1,87.5,Pitch_r_Take 2026-06-19 02.45.42 PM.csv

@@ -1,0 +1,5 @@
+layout,n,slip_mm_mean,slip_mm_sd,slip_deg_mean,slip_deg_sd,obj_disp_mm_mean,obj_disp_mm_sd
+Single planar tag,5,1.023,0.033,0.301,0.029,573.483,1.002
+Diagonal,5,103.525,14.969,24.853,3.686,657.018,12.394
+Pitch,5,1.715,0.122,0.313,0.02,581.985,1.754
+Reversed-pitch,5,2.021,0.145,0.324,0.048,577.171,2.319

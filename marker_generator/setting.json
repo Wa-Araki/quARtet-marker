@@ -1,0 +1,15 @@
+{
+	"AR0_file_path": "./0.png",
+	"AR1_file_path": "./1.png",
+	"AR2_file_path": "./2.png",
+	"AR3_file_path": "./3.png",
+    "whole_size_mm": 35,
+    "tilt_degree": 18,
+    "tilt_mode": "pitch",
+    "tag_family": "tag36h11",
+    "bottom_height_mm": 1,
+    "tag_size_mm": 16,
+    "tag_thickness_mm": 1,
+    "tag_inner_taper_degree": -1,
+    "image_margin_frame_dots_num": 1
+}
