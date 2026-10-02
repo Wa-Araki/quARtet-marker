@@ -2,8 +2,8 @@
 
 Design, fabrication, and detection toolchain for the **quARtet marker**, a 3D-printable multi-tag fiducial for robust near-frontal pose estimation, together with the per-measurement experimental datasets of the accompanying paper:
 
-> A. Wakiuchi, H. Sasaki, T. Matsubara, "quARtet Marker: A 3D-Printable Multi-Tag Fiducial for Robust Near-Frontal Pose Estimation" (under review).
-> <!-- the arXiv identifier is added at posting and the DOI upon acceptance -->
+> A. Wakiuchi, H. Sasaki, T. Matsubara, "quARtet Marker: A 3D-Printable Multi-Tag Fiducial for Robust Near-Frontal Pose Estimation," arXiv preprint [arXiv:2610.01072](https://arxiv.org/abs/2610.01072), 2026 (journal version under review).
+> <!-- the journal reference and DOI are added upon acceptance -->
 
 Four AprilTags are placed at predefined tilts on a single planar substrate, so that informative perspective cues remain available even when the marker is viewed frontally. The marker geometry is defined once, in `setting.json`: the Fusion 360 add-in reads this file to build the printable model, and the detector reconstructs the 3D coordinates of the tag corners from the same file (see Quick start) for one joint `solvePnP` over all detected corners. The fabricated marker and the pose-estimation model therefore stay consistent without manual re-measurement.
 
